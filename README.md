@@ -3,15 +3,15 @@
 ### Midterm
 
 - [ ] Report
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
-    - [ ] Task 4
+  - [x] Task 1
+  - [ ] Task 2
+  - [ ] Task 3
+  - [ ] Task 4
 
 ### Final
-- [ ] Report
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
-    - [ ] Task 4
 
+- [ ] Report
+  - [ ] Task 1
+  - [ ] Task 2
+  - [ ] Task 3
+  - [ ] Task 4
