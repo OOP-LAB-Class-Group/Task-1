@@ -23,7 +23,8 @@ class rectangle : public area_cl {
 class cylinder : public area_cl {
   public:
   double area(double h,double w) {
-    return 2 * PI * h * w;
+    double r = w/2;
+    return 2 * PI * r * (h + r) ;
   }
 };
 
