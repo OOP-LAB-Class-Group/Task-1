@@ -1,5 +1,5 @@
 // 2018556502 Muhammed Ali ARICI
-// 2019556461 Mahmut Can Ã‡INGI
+// 2019556461 Mahmut Can CINGI
 // 2020556061 Emre ULUSOY
 
 #include <iostream>
